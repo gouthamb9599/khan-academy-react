@@ -1,0 +1,97 @@
+.adminsearch{
+    width: 67vw;
+    height: 250px;
+    padding: 6px 6px;
+    align-items: center;
+    box-shadow: 3px 4px 7px 0px rgba(0,0,0,0.25);
+}
+.adding{
+    right:0px;
+    display: block;
+    /* justify-content: right; */
+}
+.controlpage{
+    width: 100%;
+    padding-top: 40px;
+    padding-left:70px ;
+   
+}
+.buttonfind{
+    width: 132px;
+    background-color: #1865f2;
+    color:#fff;
+    box-sizing: border-box;
+/*  decoration:none; */
+    outline: none;
+    transition: all 0.2s;
+}
+.buttonset{
+    float: right;
+    height: 40px;
+    width: 132px;
+    background-color: #1865f2;
+    color:#fff;
+    outline: none;
+    box-sizing: border-box;
+    transition: all 0.2s;
+    /*  text-decoration:none; */
+}
+.controlcontent{
+    align-self: center;
+    height: 100%;
+    width: 85%;
+    display: flex;
+    align-items: center;
+}
+.searching{
+    display: flex;
+    padding-left: 40px;
+
+}
+.searching > input{
+    margin-right: 1rem;
+   width: 200px;
+   height:50px;
+   padding-left: 12px;
+}
+.set{
+    padding-top: 12px;
+    width: 16%;
+    overflow: hidden;
+    transition: left .25s ease-out;
+    height: 4vh;
+    position: relative;
+    box-shadow: 3px 4px 7px 0px rgba(0,0,0,0.25);
+}
+
+.set> input{
+    margin-right: 1rem;
+    width: 200px;
+    height:12px;
+    padding-left: 12px;
+}
+.texts{
+    margin-right: 1rem;
+    width: 200px;
+    height:20px;
+    padding-left: 40px;
+    margin-left:20px
+}
+.bset{
+    height: 25px;
+    width: 132px;
+    background-color: #1865f2;
+    color:#fff;
+    outline: none;
+    box-sizing: border-box;
+    transition: all 0.2s;
+}
+.set>button{
+    height: 40px;
+    width: 132px;
+    background-color: #1865f2;
+    color:#fff;
+    outline: none;
+    box-sizing: border-box;
+    transition: all 0.2s;
+}
